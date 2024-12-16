@@ -167,3 +167,4 @@ please note:
 - scope for building a small yet specialed finetuned models based on modern arch - using flash attention v2 etc (also a lot of new optimizations) - llama 3.3 arch + RL (reward based policy)
 - scope for maintaining fast t5 lib without the dependency hell
 - using models with an encoder block is an overkill - only decoder model arch like gpt, llama 
+- using MS deep speed for intel based CPU
